@@ -2,7 +2,7 @@ export default function Footer() {
     return (
         <footer>
             <p>
-                ©<strong>AB SAGOR</strong>. All rights reserved.
+                ©<strong>Rakib Hossen</strong>. All rights reserved.
             </p>
         </footer>
     );
